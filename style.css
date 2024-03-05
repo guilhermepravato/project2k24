@@ -1,3 +1,14 @@
+*{
+margin:0;
+padding: 0;
+
+
+}
+
+
+
+
+
 .imagem-cabecalho{
   background-color: red;
   color:rgb(255, 255, 255);
