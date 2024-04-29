@@ -48,6 +48,10 @@ width: 35%;
   grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
+.jogadores-titulo{
+  text-align: center;
+  padding: 24px 0;
+}
 
   
 
