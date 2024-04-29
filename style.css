@@ -43,6 +43,10 @@ width: 35%;
    padding: 24px 6px;
 
 }
+.jogadores-todos{
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+}
 
 
   
